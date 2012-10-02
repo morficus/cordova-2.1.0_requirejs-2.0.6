@@ -1,0 +1,1 @@
+This is a test project, to demonstrate the issue identified [in this comment](https://github.com/jrburke/r.js/issues/170#issuecomment-9049967)
